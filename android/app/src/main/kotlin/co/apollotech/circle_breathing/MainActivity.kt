@@ -1,4 +1,4 @@
-package com.example.box_breathing_app
+package co.apollotech.circle_breathing
 
 import io.flutter.embedding.android.FlutterActivity
 
